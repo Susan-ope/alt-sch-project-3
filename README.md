@@ -1,1 +1,1 @@
-# alt-sch-project-3
+# altschool-project3
